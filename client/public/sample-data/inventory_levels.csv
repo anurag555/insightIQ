@@ -1,0 +1,25 @@
+sku,product_name,warehouse_location,units_in_stock,reorder_point,lead_time_days
+SKU-101,Pro Laptop 15,Hub Central (EU),264,50,6
+SKU-102,Wireless Noise-Canceling Headphones,Warehouse Alpha (US-East),390,50,4
+SKU-103,Smart 4K Monitor 27",Warehouse Beta (US-West),164,50,5
+SKU-104,Ergonomic Mechanical Keyboard,Warehouse Beta (US-West),425,50,8
+SKU-105,Ultra-fast NVMe SSD 1TB,Warehouse Beta (US-West),383,50,7
+SKU-106,USB-C Docking Station,Warehouse Alpha (US-East),404,50,7
+SKU-107,Ergonomic Mesh Chair,Warehouse Beta (US-West),51,50,6
+SKU-108,Electric Standing Desk,Hub Central (EU),295,50,14
+SKU-109,Under-Desk Footrest,Hub Central (EU),288,50,5
+SKU-110,Monitor Arm Mount,Hub Central (EU),133,50,13
+SKU-111,Acoustic Desk Privacy Panel,Warehouse Beta (US-West),397,50,14
+SKU-112,Recycled Printing Paper 500ct,Warehouse Beta (US-West),397,50,8
+SKU-113,Gel Pen Pack (12),Hub Central (EU),20,50,10
+SKU-114,Heavy Duty Stapler,Hub Central (EU),289,50,14
+SKU-115,Dry Erase Whiteboard 36x24,Warehouse Alpha (US-East),107,50,14
+SKU-116,Filing Cabinet Organizer,Warehouse Beta (US-West),207,50,9
+SKU-117,Team Collaboration Pro Annual,Hub Central (EU),105,50,10
+SKU-118,Cloud Backup 2TB Plan,Warehouse Beta (US-West),456,50,15
+SKU-119,Developer IDE Enterprise License,Warehouse Beta (US-West),24,50,11
+SKU-120,Cybersecurity Suite Shield,Warehouse Beta (US-West),234,50,5
+SKU-121,Braided USB-C Cable 2m,Warehouse Alpha (US-East),259,50,14
+SKU-122,Laptop Sleeve Water-Resistant,Warehouse Beta (US-West),460,50,4
+SKU-123,Wireless Mouse Rechargeable,Hub Central (EU),315,50,16
+SKU-124,Desk Pad Leather Mat,Warehouse Beta (US-West),39,50,12

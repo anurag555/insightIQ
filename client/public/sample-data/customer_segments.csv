@@ -1,0 +1,246 @@
+customer_id,name,segment,region,primary_contact,credit_rating
+CUST-1194,Enterprise Client 1194,SMB,Asia Pacific,contact_cust-1194@clientorg.com,Tier 1
+CUST-1068,Enterprise Client 1068,SMB,Asia Pacific,contact_cust-1068@clientorg.com,Tier 1
+CUST-1006,Enterprise Client 1006,Mid-Market,Latin America,contact_cust-1006@clientorg.com,Tier 1
+CUST-1153,Enterprise Client 1153,Mid-Market,Latin America,contact_cust-1153@clientorg.com,Tier 1
+CUST-1246,Enterprise Client 1246,Mid-Market,North America,contact_cust-1246@clientorg.com,Tier 1
+CUST-1022,Enterprise Client 1022,Mid-Market,Latin America,contact_cust-1022@clientorg.com,Tier 1
+CUST-1193,Enterprise Client 1193,SMB,Asia Pacific,contact_cust-1193@clientorg.com,Tier 1
+CUST-1159,Enterprise Client 1159,SMB,Latin America,contact_cust-1159@clientorg.com,Tier 2
+CUST-1001,Enterprise Client 1001,SMB,North America,contact_cust-1001@clientorg.com,Tier 1
+CUST-1186,Enterprise Client 1186,Enterprise,Latin America,contact_cust-1186@clientorg.com,Tier 1
+CUST-1165,Enterprise Client 1165,SMB,Latin America,contact_cust-1165@clientorg.com,Tier 2
+CUST-1113,Enterprise Client 1113,SMB,EMEA,contact_cust-1113@clientorg.com,Tier 2
+CUST-1176,Enterprise Client 1176,Enterprise,Asia Pacific,contact_cust-1176@clientorg.com,Tier 1
+CUST-1173,Enterprise Client 1173,SMB,North America,contact_cust-1173@clientorg.com,Tier 1
+CUST-1178,Enterprise Client 1178,SMB,Asia Pacific,contact_cust-1178@clientorg.com,Tier 1
+CUST-1155,Enterprise Client 1155,Mid-Market,Asia Pacific,contact_cust-1155@clientorg.com,Tier 1
+CUST-1077,Enterprise Client 1077,SMB,EMEA,contact_cust-1077@clientorg.com,Tier 2
+CUST-1013,Enterprise Client 1013,Mid-Market,Asia Pacific,contact_cust-1013@clientorg.com,Tier 1
+CUST-1206,Enterprise Client 1206,Mid-Market,Asia Pacific,contact_cust-1206@clientorg.com,Tier 1
+CUST-1090,Enterprise Client 1090,SMB,EMEA,contact_cust-1090@clientorg.com,Tier 1
+CUST-1066,Enterprise Client 1066,Mid-Market,North America,contact_cust-1066@clientorg.com,Tier 1
+CUST-1225,Enterprise Client 1225,Mid-Market,Asia Pacific,contact_cust-1225@clientorg.com,Tier 1
+CUST-1184,Enterprise Client 1184,Enterprise,Latin America,contact_cust-1184@clientorg.com,Tier 1
+CUST-1157,Enterprise Client 1157,SMB,North America,contact_cust-1157@clientorg.com,Tier 2
+CUST-1182,Enterprise Client 1182,Mid-Market,Asia Pacific,contact_cust-1182@clientorg.com,Tier 1
+CUST-1229,Enterprise Client 1229,Enterprise,North America,contact_cust-1229@clientorg.com,Tier 1
+CUST-1017,Enterprise Client 1017,Mid-Market,Latin America,contact_cust-1017@clientorg.com,Tier 1
+CUST-1043,Enterprise Client 1043,Enterprise,EMEA,contact_cust-1043@clientorg.com,Tier 1
+CUST-1236,Enterprise Client 1236,SMB,EMEA,contact_cust-1236@clientorg.com,Tier 1
+CUST-1008,Enterprise Client 1008,SMB,EMEA,contact_cust-1008@clientorg.com,Tier 2
+CUST-1103,Enterprise Client 1103,Mid-Market,Latin America,contact_cust-1103@clientorg.com,Tier 2
+CUST-1136,Enterprise Client 1136,SMB,EMEA,contact_cust-1136@clientorg.com,Tier 1
+CUST-1146,Enterprise Client 1146,SMB,North America,contact_cust-1146@clientorg.com,Tier 1
+CUST-1145,Enterprise Client 1145,Mid-Market,EMEA,contact_cust-1145@clientorg.com,Tier 1
+CUST-1056,Enterprise Client 1056,Enterprise,Asia Pacific,contact_cust-1056@clientorg.com,Tier 2
+CUST-1207,Enterprise Client 1207,SMB,EMEA,contact_cust-1207@clientorg.com,Tier 1
+CUST-1170,Enterprise Client 1170,Enterprise,EMEA,contact_cust-1170@clientorg.com,Tier 1
+CUST-1060,Enterprise Client 1060,Mid-Market,EMEA,contact_cust-1060@clientorg.com,Tier 2
+CUST-1223,Enterprise Client 1223,SMB,Latin America,contact_cust-1223@clientorg.com,Tier 1
+CUST-1240,Enterprise Client 1240,SMB,North America,contact_cust-1240@clientorg.com,Tier 1
+CUST-1161,Enterprise Client 1161,SMB,EMEA,contact_cust-1161@clientorg.com,Tier 1
+CUST-1058,Enterprise Client 1058,Mid-Market,Latin America,contact_cust-1058@clientorg.com,Tier 1
+CUST-1160,Enterprise Client 1160,Mid-Market,North America,contact_cust-1160@clientorg.com,Tier 2
+CUST-1109,Enterprise Client 1109,Mid-Market,EMEA,contact_cust-1109@clientorg.com,Tier 1
+CUST-1102,Enterprise Client 1102,Mid-Market,Asia Pacific,contact_cust-1102@clientorg.com,Tier 2
+CUST-1035,Enterprise Client 1035,SMB,EMEA,contact_cust-1035@clientorg.com,Tier 1
+CUST-1214,Enterprise Client 1214,SMB,EMEA,contact_cust-1214@clientorg.com,Tier 1
+CUST-1010,Enterprise Client 1010,Mid-Market,Asia Pacific,contact_cust-1010@clientorg.com,Tier 1
+CUST-1054,Enterprise Client 1054,Mid-Market,Asia Pacific,contact_cust-1054@clientorg.com,Tier 1
+CUST-1111,Enterprise Client 1111,Enterprise,Asia Pacific,contact_cust-1111@clientorg.com,Tier 1
+CUST-1128,Enterprise Client 1128,Enterprise,EMEA,contact_cust-1128@clientorg.com,Tier 1
+CUST-1024,Enterprise Client 1024,Enterprise,EMEA,contact_cust-1024@clientorg.com,Tier 1
+CUST-1188,Enterprise Client 1188,SMB,EMEA,contact_cust-1188@clientorg.com,Tier 1
+CUST-1114,Enterprise Client 1114,Mid-Market,Asia Pacific,contact_cust-1114@clientorg.com,Tier 1
+CUST-1133,Enterprise Client 1133,Mid-Market,EMEA,contact_cust-1133@clientorg.com,Tier 1
+CUST-1038,Enterprise Client 1038,SMB,Asia Pacific,contact_cust-1038@clientorg.com,Tier 2
+CUST-1080,Enterprise Client 1080,Mid-Market,Asia Pacific,contact_cust-1080@clientorg.com,Tier 2
+CUST-1233,Enterprise Client 1233,Enterprise,EMEA,contact_cust-1233@clientorg.com,Tier 1
+CUST-1076,Enterprise Client 1076,SMB,North America,contact_cust-1076@clientorg.com,Tier 2
+CUST-1081,Enterprise Client 1081,SMB,North America,contact_cust-1081@clientorg.com,Tier 1
+CUST-1036,Enterprise Client 1036,Enterprise,EMEA,contact_cust-1036@clientorg.com,Tier 1
+CUST-1152,Enterprise Client 1152,SMB,Asia Pacific,contact_cust-1152@clientorg.com,Tier 1
+CUST-1122,Enterprise Client 1122,Mid-Market,Asia Pacific,contact_cust-1122@clientorg.com,Tier 1
+CUST-1217,Enterprise Client 1217,SMB,Latin America,contact_cust-1217@clientorg.com,Tier 1
+CUST-1057,Enterprise Client 1057,Enterprise,North America,contact_cust-1057@clientorg.com,Tier 1
+CUST-1065,Enterprise Client 1065,SMB,EMEA,contact_cust-1065@clientorg.com,Tier 2
+CUST-1150,Enterprise Client 1150,Enterprise,Asia Pacific,contact_cust-1150@clientorg.com,Tier 1
+CUST-1129,Enterprise Client 1129,Mid-Market,Asia Pacific,contact_cust-1129@clientorg.com,Tier 1
+CUST-1023,Enterprise Client 1023,SMB,Asia Pacific,contact_cust-1023@clientorg.com,Tier 2
+CUST-1100,Enterprise Client 1100,SMB,North America,contact_cust-1100@clientorg.com,Tier 1
+CUST-1075,Enterprise Client 1075,Enterprise,North America,contact_cust-1075@clientorg.com,Tier 1
+CUST-1205,Enterprise Client 1205,Mid-Market,Latin America,contact_cust-1205@clientorg.com,Tier 1
+CUST-1215,Enterprise Client 1215,Mid-Market,EMEA,contact_cust-1215@clientorg.com,Tier 1
+CUST-1040,Enterprise Client 1040,SMB,North America,contact_cust-1040@clientorg.com,Tier 2
+CUST-1162,Enterprise Client 1162,Enterprise,Latin America,contact_cust-1162@clientorg.com,Tier 1
+CUST-1137,Enterprise Client 1137,SMB,Asia Pacific,contact_cust-1137@clientorg.com,Tier 2
+CUST-1089,Enterprise Client 1089,Mid-Market,Latin America,contact_cust-1089@clientorg.com,Tier 1
+CUST-1132,Enterprise Client 1132,SMB,North America,contact_cust-1132@clientorg.com,Tier 2
+CUST-1048,Enterprise Client 1048,Mid-Market,Latin America,contact_cust-1048@clientorg.com,Tier 2
+CUST-1175,Enterprise Client 1175,Enterprise,Asia Pacific,contact_cust-1175@clientorg.com,Tier 1
+CUST-1196,Enterprise Client 1196,SMB,North America,contact_cust-1196@clientorg.com,Tier 1
+CUST-1098,Enterprise Client 1098,Mid-Market,Latin America,contact_cust-1098@clientorg.com,Tier 1
+CUST-1224,Enterprise Client 1224,Enterprise,EMEA,contact_cust-1224@clientorg.com,Tier 2
+CUST-1189,Enterprise Client 1189,Mid-Market,EMEA,contact_cust-1189@clientorg.com,Tier 1
+CUST-1085,Enterprise Client 1085,Mid-Market,Asia Pacific,contact_cust-1085@clientorg.com,Tier 1
+CUST-1127,Enterprise Client 1127,SMB,Asia Pacific,contact_cust-1127@clientorg.com,Tier 1
+CUST-1187,Enterprise Client 1187,Mid-Market,Latin America,contact_cust-1187@clientorg.com,Tier 1
+CUST-1231,Enterprise Client 1231,Mid-Market,EMEA,contact_cust-1231@clientorg.com,Tier 1
+CUST-1004,Enterprise Client 1004,Mid-Market,Asia Pacific,contact_cust-1004@clientorg.com,Tier 2
+CUST-1195,Enterprise Client 1195,Enterprise,North America,contact_cust-1195@clientorg.com,Tier 1
+CUST-1167,Enterprise Client 1167,Mid-Market,Latin America,contact_cust-1167@clientorg.com,Tier 1
+CUST-1115,Enterprise Client 1115,Mid-Market,North America,contact_cust-1115@clientorg.com,Tier 2
+CUST-1124,Enterprise Client 1124,SMB,North America,contact_cust-1124@clientorg.com,Tier 2
+CUST-1088,Enterprise Client 1088,Enterprise,North America,contact_cust-1088@clientorg.com,Tier 2
+CUST-1227,Enterprise Client 1227,SMB,Latin America,contact_cust-1227@clientorg.com,Tier 2
+CUST-1130,Enterprise Client 1130,Mid-Market,North America,contact_cust-1130@clientorg.com,Tier 2
+CUST-1219,Enterprise Client 1219,SMB,Latin America,contact_cust-1219@clientorg.com,Tier 1
+CUST-1144,Enterprise Client 1144,SMB,Asia Pacific,contact_cust-1144@clientorg.com,Tier 1
+CUST-1244,Enterprise Client 1244,SMB,Asia Pacific,contact_cust-1244@clientorg.com,Tier 1
+CUST-1119,Enterprise Client 1119,Mid-Market,Asia Pacific,contact_cust-1119@clientorg.com,Tier 1
+CUST-1106,Enterprise Client 1106,Mid-Market,Latin America,contact_cust-1106@clientorg.com,Tier 1
+CUST-1192,Enterprise Client 1192,SMB,North America,contact_cust-1192@clientorg.com,Tier 1
+CUST-1074,Enterprise Client 1074,SMB,Asia Pacific,contact_cust-1074@clientorg.com,Tier 1
+CUST-1070,Enterprise Client 1070,Mid-Market,Asia Pacific,contact_cust-1070@clientorg.com,Tier 1
+CUST-1117,Enterprise Client 1117,Mid-Market,Latin America,contact_cust-1117@clientorg.com,Tier 2
+CUST-1183,Enterprise Client 1183,Enterprise,North America,contact_cust-1183@clientorg.com,Tier 2
+CUST-1064,Enterprise Client 1064,Enterprise,Asia Pacific,contact_cust-1064@clientorg.com,Tier 1
+CUST-1156,Enterprise Client 1156,SMB,North America,contact_cust-1156@clientorg.com,Tier 1
+CUST-1190,Enterprise Client 1190,Enterprise,North America,contact_cust-1190@clientorg.com,Tier 1
+CUST-1002,Enterprise Client 1002,Mid-Market,EMEA,contact_cust-1002@clientorg.com,Tier 2
+CUST-1139,Enterprise Client 1139,Mid-Market,Asia Pacific,contact_cust-1139@clientorg.com,Tier 1
+CUST-1177,Enterprise Client 1177,SMB,Latin America,contact_cust-1177@clientorg.com,Tier 1
+CUST-1082,Enterprise Client 1082,Mid-Market,North America,contact_cust-1082@clientorg.com,Tier 2
+CUST-1209,Enterprise Client 1209,Mid-Market,Asia Pacific,contact_cust-1209@clientorg.com,Tier 2
+CUST-1125,Enterprise Client 1125,Mid-Market,North America,contact_cust-1125@clientorg.com,Tier 1
+CUST-1003,Enterprise Client 1003,SMB,EMEA,contact_cust-1003@clientorg.com,Tier 2
+CUST-1234,Enterprise Client 1234,Mid-Market,Asia Pacific,contact_cust-1234@clientorg.com,Tier 2
+CUST-1143,Enterprise Client 1143,Mid-Market,Latin America,contact_cust-1143@clientorg.com,Tier 2
+CUST-1067,Enterprise Client 1067,SMB,EMEA,contact_cust-1067@clientorg.com,Tier 1
+CUST-1149,Enterprise Client 1149,Mid-Market,Latin America,contact_cust-1149@clientorg.com,Tier 1
+CUST-1018,Enterprise Client 1018,SMB,North America,contact_cust-1018@clientorg.com,Tier 1
+CUST-1031,Enterprise Client 1031,SMB,Latin America,contact_cust-1031@clientorg.com,Tier 1
+CUST-1241,Enterprise Client 1241,Enterprise,Asia Pacific,contact_cust-1241@clientorg.com,Tier 1
+CUST-1030,Enterprise Client 1030,Enterprise,EMEA,contact_cust-1030@clientorg.com,Tier 1
+CUST-1046,Enterprise Client 1046,SMB,Latin America,contact_cust-1046@clientorg.com,Tier 1
+CUST-1211,Enterprise Client 1211,SMB,North America,contact_cust-1211@clientorg.com,Tier 2
+CUST-1072,Enterprise Client 1072,SMB,North America,contact_cust-1072@clientorg.com,Tier 1
+CUST-1121,Enterprise Client 1121,Enterprise,Asia Pacific,contact_cust-1121@clientorg.com,Tier 1
+CUST-1050,Enterprise Client 1050,Enterprise,EMEA,contact_cust-1050@clientorg.com,Tier 1
+CUST-1039,Enterprise Client 1039,Mid-Market,Latin America,contact_cust-1039@clientorg.com,Tier 2
+CUST-1083,Enterprise Client 1083,SMB,Asia Pacific,contact_cust-1083@clientorg.com,Tier 1
+CUST-1202,Enterprise Client 1202,SMB,Latin America,contact_cust-1202@clientorg.com,Tier 1
+CUST-1237,Enterprise Client 1237,Enterprise,North America,contact_cust-1237@clientorg.com,Tier 1
+CUST-1107,Enterprise Client 1107,SMB,North America,contact_cust-1107@clientorg.com,Tier 2
+CUST-1249,Enterprise Client 1249,Mid-Market,North America,contact_cust-1249@clientorg.com,Tier 2
+CUST-1097,Enterprise Client 1097,Mid-Market,Latin America,contact_cust-1097@clientorg.com,Tier 1
+CUST-1027,Enterprise Client 1027,Enterprise,EMEA,contact_cust-1027@clientorg.com,Tier 1
+CUST-1049,Enterprise Client 1049,Mid-Market,EMEA,contact_cust-1049@clientorg.com,Tier 2
+CUST-1094,Enterprise Client 1094,Mid-Market,Latin America,contact_cust-1094@clientorg.com,Tier 2
+CUST-1220,Enterprise Client 1220,Mid-Market,Latin America,contact_cust-1220@clientorg.com,Tier 1
+CUST-1016,Enterprise Client 1016,Enterprise,North America,contact_cust-1016@clientorg.com,Tier 2
+CUST-1007,Enterprise Client 1007,Mid-Market,Asia Pacific,contact_cust-1007@clientorg.com,Tier 1
+CUST-1230,Enterprise Client 1230,Mid-Market,North America,contact_cust-1230@clientorg.com,Tier 1
+CUST-1095,Enterprise Client 1095,Mid-Market,North America,contact_cust-1095@clientorg.com,Tier 1
+CUST-1141,Enterprise Client 1141,Mid-Market,North America,contact_cust-1141@clientorg.com,Tier 2
+CUST-1092,Enterprise Client 1092,Mid-Market,North America,contact_cust-1092@clientorg.com,Tier 1
+CUST-1009,Enterprise Client 1009,Mid-Market,North America,contact_cust-1009@clientorg.com,Tier 1
+CUST-1041,Enterprise Client 1041,SMB,Asia Pacific,contact_cust-1041@clientorg.com,Tier 1
+CUST-1005,Enterprise Client 1005,SMB,Latin America,contact_cust-1005@clientorg.com,Tier 1
+CUST-1014,Enterprise Client 1014,SMB,Latin America,contact_cust-1014@clientorg.com,Tier 1
+CUST-1164,Enterprise Client 1164,Enterprise,Asia Pacific,contact_cust-1164@clientorg.com,Tier 2
+CUST-1242,Enterprise Client 1242,Mid-Market,North America,contact_cust-1242@clientorg.com,Tier 1
+CUST-1198,Enterprise Client 1198,Mid-Market,Asia Pacific,contact_cust-1198@clientorg.com,Tier 1
+CUST-1011,Enterprise Client 1011,SMB,EMEA,contact_cust-1011@clientorg.com,Tier 1
+CUST-1099,Enterprise Client 1099,SMB,EMEA,contact_cust-1099@clientorg.com,Tier 2
+CUST-1110,Enterprise Client 1110,Mid-Market,EMEA,contact_cust-1110@clientorg.com,Tier 1
+CUST-1245,Enterprise Client 1245,Mid-Market,Latin America,contact_cust-1245@clientorg.com,Tier 1
+CUST-1118,Enterprise Client 1118,Mid-Market,EMEA,contact_cust-1118@clientorg.com,Tier 1
+CUST-1032,Enterprise Client 1032,Enterprise,North America,contact_cust-1032@clientorg.com,Tier 1
+CUST-1104,Enterprise Client 1104,Enterprise,Asia Pacific,contact_cust-1104@clientorg.com,Tier 2
+CUST-1033,Enterprise Client 1033,Enterprise,North America,contact_cust-1033@clientorg.com,Tier 1
+CUST-1203,Enterprise Client 1203,Enterprise,Asia Pacific,contact_cust-1203@clientorg.com,Tier 2
+CUST-1108,Enterprise Client 1108,Enterprise,North America,contact_cust-1108@clientorg.com,Tier 1
+CUST-1019,Enterprise Client 1019,Mid-Market,EMEA,contact_cust-1019@clientorg.com,Tier 1
+CUST-1021,Enterprise Client 1021,Mid-Market,EMEA,contact_cust-1021@clientorg.com,Tier 1
+CUST-1087,Enterprise Client 1087,Mid-Market,Asia Pacific,contact_cust-1087@clientorg.com,Tier 2
+CUST-1168,Enterprise Client 1168,SMB,EMEA,contact_cust-1168@clientorg.com,Tier 2
+CUST-1026,Enterprise Client 1026,SMB,North America,contact_cust-1026@clientorg.com,Tier 1
+CUST-1148,Enterprise Client 1148,Mid-Market,EMEA,contact_cust-1148@clientorg.com,Tier 1
+CUST-1235,Enterprise Client 1235,Mid-Market,Latin America,contact_cust-1235@clientorg.com,Tier 1
+CUST-1200,Enterprise Client 1200,SMB,Asia Pacific,contact_cust-1200@clientorg.com,Tier 1
+CUST-1191,Enterprise Client 1191,Mid-Market,Latin America,contact_cust-1191@clientorg.com,Tier 1
+CUST-1123,Enterprise Client 1123,Enterprise,Asia Pacific,contact_cust-1123@clientorg.com,Tier 1
+CUST-1096,Enterprise Client 1096,SMB,North America,contact_cust-1096@clientorg.com,Tier 1
+CUST-1112,Enterprise Client 1112,Enterprise,EMEA,contact_cust-1112@clientorg.com,Tier 2
+CUST-1071,Enterprise Client 1071,SMB,Latin America,contact_cust-1071@clientorg.com,Tier 1
+CUST-1042,Enterprise Client 1042,SMB,Asia Pacific,contact_cust-1042@clientorg.com,Tier 2
+CUST-1093,Enterprise Client 1093,Mid-Market,Asia Pacific,contact_cust-1093@clientorg.com,Tier 1
+CUST-1020,Enterprise Client 1020,SMB,North America,contact_cust-1020@clientorg.com,Tier 2
+CUST-1204,Enterprise Client 1204,SMB,Asia Pacific,contact_cust-1204@clientorg.com,Tier 1
+CUST-1134,Enterprise Client 1134,SMB,Latin America,contact_cust-1134@clientorg.com,Tier 1
+CUST-1181,Enterprise Client 1181,Enterprise,Latin America,contact_cust-1181@clientorg.com,Tier 1
+CUST-1028,Enterprise Client 1028,Enterprise,EMEA,contact_cust-1028@clientorg.com,Tier 2
+CUST-1051,Enterprise Client 1051,Enterprise,Asia Pacific,contact_cust-1051@clientorg.com,Tier 1
+CUST-1037,Enterprise Client 1037,Mid-Market,Latin America,contact_cust-1037@clientorg.com,Tier 1
+CUST-1147,Enterprise Client 1147,SMB,EMEA,contact_cust-1147@clientorg.com,Tier 1
+CUST-1126,Enterprise Client 1126,Mid-Market,Latin America,contact_cust-1126@clientorg.com,Tier 1
+CUST-1120,Enterprise Client 1120,Mid-Market,EMEA,contact_cust-1120@clientorg.com,Tier 2
+CUST-1063,Enterprise Client 1063,Mid-Market,North America,contact_cust-1063@clientorg.com,Tier 1
+CUST-1185,Enterprise Client 1185,Mid-Market,North America,contact_cust-1185@clientorg.com,Tier 1
+CUST-1247,Enterprise Client 1247,SMB,North America,contact_cust-1247@clientorg.com,Tier 2
+CUST-1140,Enterprise Client 1140,Enterprise,EMEA,contact_cust-1140@clientorg.com,Tier 1
+CUST-1221,Enterprise Client 1221,Mid-Market,EMEA,contact_cust-1221@clientorg.com,Tier 1
+CUST-1052,Enterprise Client 1052,SMB,Latin America,contact_cust-1052@clientorg.com,Tier 1
+CUST-1248,Enterprise Client 1248,Mid-Market,EMEA,contact_cust-1248@clientorg.com,Tier 2
+CUST-1138,Enterprise Client 1138,Enterprise,Asia Pacific,contact_cust-1138@clientorg.com,Tier 1
+CUST-1044,Enterprise Client 1044,SMB,EMEA,contact_cust-1044@clientorg.com,Tier 1
+CUST-1015,Enterprise Client 1015,Enterprise,EMEA,contact_cust-1015@clientorg.com,Tier 1
+CUST-1228,Enterprise Client 1228,Mid-Market,Latin America,contact_cust-1228@clientorg.com,Tier 1
+CUST-1171,Enterprise Client 1171,Mid-Market,Latin America,contact_cust-1171@clientorg.com,Tier 1
+CUST-1105,Enterprise Client 1105,Enterprise,Latin America,contact_cust-1105@clientorg.com,Tier 2
+CUST-1239,Enterprise Client 1239,SMB,Latin America,contact_cust-1239@clientorg.com,Tier 1
+CUST-1222,Enterprise Client 1222,Enterprise,Asia Pacific,contact_cust-1222@clientorg.com,Tier 1
+CUST-1059,Enterprise Client 1059,Mid-Market,EMEA,contact_cust-1059@clientorg.com,Tier 1
+CUST-1029,Enterprise Client 1029,SMB,Asia Pacific,contact_cust-1029@clientorg.com,Tier 1
+CUST-1210,Enterprise Client 1210,Mid-Market,Asia Pacific,contact_cust-1210@clientorg.com,Tier 1
+CUST-1142,Enterprise Client 1142,Mid-Market,Latin America,contact_cust-1142@clientorg.com,Tier 1
+CUST-1062,Enterprise Client 1062,Enterprise,North America,contact_cust-1062@clientorg.com,Tier 1
+CUST-1208,Enterprise Client 1208,SMB,North America,contact_cust-1208@clientorg.com,Tier 1
+CUST-1084,Enterprise Client 1084,SMB,EMEA,contact_cust-1084@clientorg.com,Tier 1
+CUST-1226,Enterprise Client 1226,SMB,North America,contact_cust-1226@clientorg.com,Tier 1
+CUST-1034,Enterprise Client 1034,SMB,Asia Pacific,contact_cust-1034@clientorg.com,Tier 1
+CUST-1012,Enterprise Client 1012,Mid-Market,Latin America,contact_cust-1012@clientorg.com,Tier 1
+CUST-1180,Enterprise Client 1180,SMB,Latin America,contact_cust-1180@clientorg.com,Tier 1
+CUST-1086,Enterprise Client 1086,SMB,Latin America,contact_cust-1086@clientorg.com,Tier 1
+CUST-1073,Enterprise Client 1073,Enterprise,North America,contact_cust-1073@clientorg.com,Tier 1
+CUST-1061,Enterprise Client 1061,Mid-Market,Asia Pacific,contact_cust-1061@clientorg.com,Tier 1
+CUST-1078,Enterprise Client 1078,Mid-Market,EMEA,contact_cust-1078@clientorg.com,Tier 1
+CUST-1213,Enterprise Client 1213,Mid-Market,Asia Pacific,contact_cust-1213@clientorg.com,Tier 2
+CUST-1218,Enterprise Client 1218,SMB,Asia Pacific,contact_cust-1218@clientorg.com,Tier 1
+CUST-1158,Enterprise Client 1158,SMB,Latin America,contact_cust-1158@clientorg.com,Tier 1
+CUST-1151,Enterprise Client 1151,Mid-Market,EMEA,contact_cust-1151@clientorg.com,Tier 2
+CUST-1047,Enterprise Client 1047,Enterprise,North America,contact_cust-1047@clientorg.com,Tier 2
+CUST-1069,Enterprise Client 1069,Enterprise,EMEA,contact_cust-1069@clientorg.com,Tier 1
+CUST-1025,Enterprise Client 1025,Enterprise,Latin America,contact_cust-1025@clientorg.com,Tier 1
+CUST-1055,Enterprise Client 1055,Enterprise,EMEA,contact_cust-1055@clientorg.com,Tier 1
+CUST-1166,Enterprise Client 1166,SMB,Asia Pacific,contact_cust-1166@clientorg.com,Tier 2
+CUST-1053,Enterprise Client 1053,SMB,Asia Pacific,contact_cust-1053@clientorg.com,Tier 2
+CUST-1154,Enterprise Client 1154,Enterprise,EMEA,contact_cust-1154@clientorg.com,Tier 2
+CUST-1199,Enterprise Client 1199,Enterprise,Asia Pacific,contact_cust-1199@clientorg.com,Tier 2
+CUST-1212,Enterprise Client 1212,Enterprise,EMEA,contact_cust-1212@clientorg.com,Tier 1
+CUST-1174,Enterprise Client 1174,SMB,EMEA,contact_cust-1174@clientorg.com,Tier 2
+CUST-1201,Enterprise Client 1201,SMB,North America,contact_cust-1201@clientorg.com,Tier 2
+CUST-1232,Enterprise Client 1232,Mid-Market,EMEA,contact_cust-1232@clientorg.com,Tier 1
+CUST-1172,Enterprise Client 1172,Mid-Market,EMEA,contact_cust-1172@clientorg.com,Tier 1
+CUST-1101,Enterprise Client 1101,SMB,EMEA,contact_cust-1101@clientorg.com,Tier 1
+CUST-1091,Enterprise Client 1091,Enterprise,Latin America,contact_cust-1091@clientorg.com,Tier 1
+CUST-1169,Enterprise Client 1169,SMB,EMEA,contact_cust-1169@clientorg.com,Tier 2
+CUST-1000,Enterprise Client 1000,Mid-Market,Asia Pacific,contact_cust-1000@clientorg.com,Tier 2
+CUST-1216,Enterprise Client 1216,SMB,Asia Pacific,contact_cust-1216@clientorg.com,Tier 1
+CUST-1116,Enterprise Client 1116,Mid-Market,EMEA,contact_cust-1116@clientorg.com,Tier 1
+CUST-1131,Enterprise Client 1131,Mid-Market,Asia Pacific,contact_cust-1131@clientorg.com,Tier 2
+CUST-1179,Enterprise Client 1179,SMB,North America,contact_cust-1179@clientorg.com,Tier 2
+CUST-1197,Enterprise Client 1197,SMB,North America,contact_cust-1197@clientorg.com,Tier 1
+CUST-1243,Enterprise Client 1243,SMB,Latin America,contact_cust-1243@clientorg.com,Tier 1

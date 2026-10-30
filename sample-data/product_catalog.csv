@@ -1,0 +1,25 @@
+product_sku,product_name,category,standard_cost,target_margin,status
+SKU-101,Pro Laptop 15,Electronics,42,0.42,Active
+SKU-102,Wireless Noise-Canceling Headphones,Electronics,71,0.42,Active
+SKU-103,Smart 4K Monitor 27",Electronics,92,0.42,Active
+SKU-104,Ergonomic Mechanical Keyboard,Electronics,48,0.42,Active
+SKU-105,Ultra-fast NVMe SSD 1TB,Electronics,35,0.42,Active
+SKU-106,USB-C Docking Station,Electronics,19,0.42,Active
+SKU-107,Ergonomic Mesh Chair,Furniture,18,0.42,Active
+SKU-108,Electric Standing Desk,Furniture,43,0.42,Active
+SKU-109,Under-Desk Footrest,Furniture,81,0.42,Active
+SKU-110,Monitor Arm Mount,Furniture,26,0.42,Active
+SKU-111,Acoustic Desk Privacy Panel,Furniture,86,0.42,Active
+SKU-112,Recycled Printing Paper 500ct,Office Supplies,83,0.42,Active
+SKU-113,Gel Pen Pack (12),Office Supplies,79,0.42,Active
+SKU-114,Heavy Duty Stapler,Office Supplies,22,0.42,Active
+SKU-115,Dry Erase Whiteboard 36x24,Office Supplies,52,0.42,Active
+SKU-116,Filing Cabinet Organizer,Office Supplies,73,0.42,Active
+SKU-117,Team Collaboration Pro Annual,Software & Cloud,21,0.42,Active
+SKU-118,Cloud Backup 2TB Plan,Software & Cloud,24,0.42,Active
+SKU-119,Developer IDE Enterprise License,Software & Cloud,51,0.42,Active
+SKU-120,Cybersecurity Suite Shield,Software & Cloud,80,0.42,Active
+SKU-121,Braided USB-C Cable 2m,Accessories,63,0.42,Active
+SKU-122,Laptop Sleeve Water-Resistant,Accessories,21,0.42,Active
+SKU-123,Wireless Mouse Rechargeable,Accessories,86,0.42,Active
+SKU-124,Desk Pad Leather Mat,Accessories,81,0.42,Active
